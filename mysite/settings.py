@@ -25,7 +25,7 @@ SECRET_KEY = 'i7p)j9&hl=xb$@xsetpd*bki&jqfv1(!jage0_1&=iuvogw$7v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://aquaoptimization.herokuapp.com/','localhost','127.0.0.1']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
